@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-sales-workspace-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-sales-workspace",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-sales-workspace-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/sales-workspace.md",
+  "presentationPlan": "projects/crm/nuxt/sales-workspace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
